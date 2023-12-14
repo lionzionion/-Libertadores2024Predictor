@@ -28,6 +28,8 @@ Avalie a precisão do modelo prevendo resultados no conjunto de teste e comparan
 ### 8. Fazer Previsões para 2024:
 Faça previsões para o vencedor final da Libertadores 2024 usando uma lista predefinida de equipes. O script identifica a equipe com mais previsões como o possível vencedor final.
 
+**Agradecimentos especiais por utilizar o Libertadores2024Predictor. Este projeto é fornecido sob a licença MIT (Massachusetts Institute of Technology).**
+
 =====================================================================================================================================================================================================================================================
 
 
