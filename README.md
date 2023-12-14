@@ -3,7 +3,7 @@
 ## Visão Geral
 Este repositório fornece um script em Python projetado para prever o vencedor final da Libertadores 2024 usando um RandomForestClassifier. O script abrange etapas essenciais, incluindo carregamento de dados, pré-processamento, treinamento do modelo, avaliação e previsões para o vencedor do torneio.
 
-## Instruções:
+## Instruções:
 ### 1. Carregar Dados:
 Certifique-se de que o arquivo Libertadores_Matches.csv esteja localizado no mesmo diretório do script. Este arquivo contém os dados necessários para análise.
 
